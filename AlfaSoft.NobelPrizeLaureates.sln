@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlfaSoft.NobelPrizeLaureates", "AlfaSoft.NobelPrizeLaureates\AlfaSoft.NobelPrizeLaureates.csproj", "{C0B1F5C4-ED68-449C-A291-5988215E0800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B1F5C4-ED68-449C-A291-5988215E0800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B1F5C4-ED68-449C-A291-5988215E0800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B1F5C4-ED68-449C-A291-5988215E0800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B1F5C4-ED68-449C-A291-5988215E0800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326DA6E5-C5A3-43C9-BC49-AE744395A690}
+	EndGlobalSection
+EndGlobal
